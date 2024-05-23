@@ -2,8 +2,6 @@
 
 Welcome to the Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your blogs.
 
-also visit [E-commerce_website-using-React-Redux](https://github.com/khushi2706/E-commerce-website-using-React-Redux)
-
 ## Functionalities
 
 - **Authentication:** Secure user authentication system to protect your blogs.
@@ -11,14 +9,6 @@ also visit [E-commerce_website-using-React-Redux](https://github.com/khushi2706/
 - **Delete Blog:** Remove unwanted blogs with a simple delete option.
 - **Update Blog:** Edit and update your blogs as your content evolves.
 - **View Other User Blogs:** Explore and read blogs published by other users.
-
-## Screenshots
-
-![Screenshot 1](https://user-images.githubusercontent.com/67452985/172217325-4378400e-60a0-4364-aadb-89e900886a1c.png)
-
-![Screenshot 2](https://user-images.githubusercontent.com/67452985/172217368-76264e6e-8373-484d-9cd0-3af5920754b1.png)
-
-![Screenshot 3](https://user-images.githubusercontent.com/67452985/172217649-238abde0-1b29-40fe-a46e-1b5bb03678c8.png)
 
 ## Getting Started
 
@@ -29,7 +19,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Blog-App-using-MERN-stack.git
+git clone https://github.com/snowball1701/Blog-App-using-MERN-stack.git
 ```
 
 2. Install the required dependencies for both the backend and frontend:
